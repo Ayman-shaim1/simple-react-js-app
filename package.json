@@ -2,7 +2,7 @@
   "name": "simple-react-js-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://Ayman-shaim1.github.io/react-js-simple-app",
+  "homepage":"http://Ayman-shaim1.github.io/simple-react-js-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
